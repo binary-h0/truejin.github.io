@@ -33,7 +33,7 @@
 
 title: Binary ho
 subtitle: Story, Study, Share
-description: mysite # this means to ignore newlines until "baseurl:"
+description: mysites # this means to ignore newlines until "baseurl:"
 avatar: assets/images/avatar.jpg
 author: JinhoLee
 email: max000807@gmail.com
