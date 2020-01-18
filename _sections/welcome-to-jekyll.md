@@ -1,6 +1,8 @@
 ---
-title: Welcome to Jekyll!
-icon: fa-check
+title: Welcome my site
+cover-photo: asset/images/banner.jpg
+cover-photo-alt: "banner"
+icon: fa-github
 order: 5
 ---
 
