@@ -1,7 +1,5 @@
 ---
-title: Welcome my site
-cover-photo: asset/images/banner.jpg
-cover-photo-alt: "banner"
+title: Welcome to my site!
 icon: fa-check
 order: 5
 ---
