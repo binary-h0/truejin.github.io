@@ -2,7 +2,7 @@
 title: Welcome my site
 cover-photo: asset/images/banner.jpg
 cover-photo-alt: "banner"
-icon: fa-github
+icon: fa-check
 order: 5
 ---
 
