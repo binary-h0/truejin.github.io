@@ -48,7 +48,7 @@ url: "https://truejin.github.io" # the base hostname & protocol for your site
 #twitter_url:
 #facebook_url:
 #googleplus_url:
-#instagram_url:
+instagram_url: https://www.instagram.com/binary_ho/
 #linkedin_url:
 github_url: https://github.com/truejin
 #pinterest_url:
@@ -56,10 +56,10 @@ github_url: https://github.com/truejin
 #dribbble_url:
 
 # Google Analytics Tracking ID goes here:
-google_analytics:
+google_analytics: UA-156485347-1
 
 # The following settings are NECESSARY for the Prologue theme to run:
-remote_theme: chrisbobbe/jekyll-theme-prologue
+# remote_theme: chrisbobbe/jekyll-theme-prologue
 theme: jekyll-theme-prologue
 
 collections: [sections]
