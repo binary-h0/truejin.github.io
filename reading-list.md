@@ -3,6 +3,7 @@ title: BOJ List
 subtitle: a list of solved
 layout: "page"
 icon: fa-pencil-alt
+permalink: /BOJ/
 order: 3
 ---
 
