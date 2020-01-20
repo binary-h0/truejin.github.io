@@ -1,6 +1,6 @@
 ---
-title: Reading List
-subtitle: a list of books I read
+title: BOJ List
+subtitle: a list of solved
 layout: "page"
 icon: fa-book
 order: 3
