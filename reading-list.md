@@ -2,7 +2,7 @@
 title: BOJ List
 subtitle: a list of solved
 layout: "page"
-icon: fa-book
+icon: fa-pencil-alt
 order: 3
 ---
 
