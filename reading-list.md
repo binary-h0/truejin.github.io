@@ -3,10 +3,11 @@ title: BOJ List
 subtitle: a list of solved
 layout: "page"
 icon: fa-pencil-alt
+permalink: /BOJ/
 order: 3
 ---
 
-Algorithm Study always good!
+Algorithm always good !!
 
 1. Robert Burton: *The Anatomy of Melancholy*
 2. Robert Musil: *The Man Without Qualities*
