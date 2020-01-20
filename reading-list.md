@@ -3,11 +3,10 @@ title: BOJ List
 subtitle: a list of solved
 layout: "page"
 icon: fa-pencil-alt
-permalink: /BOJ/
 order: 3
 ---
 
-I love books! Here are some I'm reading now:
+Algorithm Study always good!
 
 1. Robert Burton: *The Anatomy of Melancholy*
 2. Robert Musil: *The Man Without Qualities*
@@ -19,5 +18,3 @@ I love books! Here are some I'm reading now:
 8. William Thackeray: *Pendennis*
 9. Karl Marx: *Capital*
 10. James Woodforde: *The Diary of A Country Parson*
-
-source: [The Guardian](https://www.theguardian.com/books/booksblog/2011/jan/04/best-boring-books)
