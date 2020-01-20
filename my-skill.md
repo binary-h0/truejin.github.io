@@ -3,6 +3,7 @@ title: My Skills
 subtitle: Study fills the void inside for truth
 layout: "page"
 icon: fa-graduation-cap
+permalink: /myskills/
 order: 5
 ---
 
