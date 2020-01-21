@@ -16,5 +16,5 @@ order: 5
 <p>
 <strong>Strong: Python, Java, Django, MySQL, GIT</strong>
 <br>
-Knowledgeable: PHP, HTML, CSS, JavaScript, CodeIgniter
+Knowledgeable: ROS, PHP, HTML, CSS, JavaScript, CodeIgniter
 </p>
