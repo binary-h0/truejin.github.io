@@ -1,7 +1,6 @@
 ---
 title: Welcome to my site!
 icon: fa-check
-hide: true
 order: 5
 ---
 
