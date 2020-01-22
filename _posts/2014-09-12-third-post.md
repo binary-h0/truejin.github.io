@@ -2,6 +2,8 @@
 title: Third Post
 author: Chris
 layout: post
+categories: check
+tag: ck
 icon: fa-lightbulb
 icon-style: regular
 ---
