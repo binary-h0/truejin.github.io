@@ -1,9 +1,10 @@
 ---
-title: Django EASY Masnual
-author: Chap. 1
-layout: post
+layout: manualpost
+title: Django EZ Manual
+author: URL 요청과 응답
+icon: fa-lightbulb
+icon-style: regular
 ---
-<!-- Text stuff -->
 
 <h2>2. URL 요청과 응답</h2>
 
