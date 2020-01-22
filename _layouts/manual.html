@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-{%- assign _dmanuals = site.dmanuals | sort: 'order' -%}
-{%- include header.html scrolly_nav=_dmanuals -%}
+{%- assign _dmanuals = site.posts | sort: 'order' -%}
+{%- include header.html scrolly_nav=_posts -%}
 <!-- Main -->
 <div id="main">
 	{%- if page.content != "" -%}
