@@ -4,6 +4,7 @@ title: Django EZ Manual
 author: URL 요청과 응답
 icon: fa-lightbulb
 icon-style: regular
+layout: manualpost
 ---
 
 <h2>2. URL 요청과 응답</h2>

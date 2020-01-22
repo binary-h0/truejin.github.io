@@ -4,6 +4,7 @@ title: Django EZ Manual
 author: 모델과 관리자페이지
 icon: fa-lightbulb
 icon-style: regular
+layout: manualpost
 ---
 
 <h2>3. 모델과 관리자페이지</h2>

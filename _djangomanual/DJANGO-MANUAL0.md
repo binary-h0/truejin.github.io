@@ -3,6 +3,7 @@ layout: manualpost
 title: Django EZ Manual
 icon: fa-lightbulb
 icon-style: regular
+layout: manualpost
 ---
 
 <div style="text-align: center">

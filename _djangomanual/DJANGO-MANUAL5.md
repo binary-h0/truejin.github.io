@@ -4,6 +4,7 @@ title: Django EZ Manual
 author: 테스팅, 앱 패키징
 icon: fa-lightbulb
 icon-style: regular
+layout: manualpost
 ---
 
 <h2>6. 테스팅</h2>
