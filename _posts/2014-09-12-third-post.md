@@ -6,7 +6,7 @@ icon: fa-lightbulb
 icon-style: regular
 ---
 
-<h2>See the icon?<h2>
+<h2>See the icon?</h2>
 
 `Lorem ipsum dolor` sit amet, harum malorum nominavi mea et. Atqui maluisset duo cu, summo dignissim voluptatum sit ut. Ad quo quidam delicatissimi. Cum nihil noster patrioque id. Per at maiorum definitiones. Cu vix <h2>sint</h2> aliquip. No duo alia sale persecuti.
 
