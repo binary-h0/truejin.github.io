@@ -1,23 +1,23 @@
 ---
 layout: default
 ---
-{%- assign _djangomanual = site.djangomanual | sort: 'order' -%}
-{%- include header.html scrolly_nav=_djangomanual -%}
+{%- assign _dmanuals = site.dmanuals | sort: 'order' -%}
+{%- include header.html scrolly_nav=_dmanuals -%}
 <!-- Main -->
 <div id="main">
 	{%- if page.content != "" -%}
 		{%- include section.html title=page.title photo=page.cover-photo photo-alt=page.cover-photo-alt auto-header=page.auto-header content=page.content -%}
 	{%- endif -%}
-	<!-- Posts List -->
-	{%- for _manual in _djangomanual -%}
+	<!-- List -->
+	{%- for _dmanual in _dmanuals -%}
 		{%- capture _title -%}
-			<a href="{{- _manual.url | absolute_url -}}">{{- _manual.title -}}</a>
+			<a href="{{- _dmanual.url | absolute_url -}}">{{- _dmanual.title -}}</a>
 		{%- endcapture -%}
 		{%- capture _subtitle -%}
-			{% if _manual.author -%}{{- _manual.author }}{% endif %}
+			{% if _dmanual.author -%}{{- _dmanual.author }}{% endif %}
 		{%- endcapture -%}
-		{%- capture _excerpt -%}<p>{{- _manual.excerpt | strip_html | truncatewords: 100 -}}</p>{%- endcapture -%}
-		{%- capture _link -%}<a href="{{- _manual.url | absolute_url -}}">read more</a>{%- endcapture -%}
+		{%- capture _excerpt -%}<p>{{- _dmanual.excerpt | strip_html | truncatewords: 100 -}}</p>{%- endcapture -%}
+		{%- capture _link -%}<a href="{{- _dmanual.url | absolute_url -}}">read more</a>{%- endcapture -%}
 		{%- assign _content = _excerpt | append: _link -%}
 		{%- include section.html title=_title subtitle=_subtitle content=_content -%}
 	{%- endfor -%}
