@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-{%- assign _djangomanual = site.posts -%}
-{%- include header.html scrolly_nav=_posts -%}
+{%- assign _djangomanual = site.djangomanual | sort: 'order' -%}
+{%- include header.html scrolly_nav=_djangomanual -%}
 <!-- Main -->
 <div id="main">
 	{%- if page.content != "" -%}

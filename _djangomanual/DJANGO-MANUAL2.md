@@ -5,6 +5,7 @@ author: URL 요청과 응답
 icon: fa-lightbulb
 icon-style: regular
 layout: manualpost
+order: 3
 ---
 
 <h2>2. URL 요청과 응답</h2>

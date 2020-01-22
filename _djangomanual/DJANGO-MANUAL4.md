@@ -5,6 +5,7 @@ author: 뷰와 템플릿, 정적 파일
 icon: fa-lightbulb
 icon-style: regular
 layout: manualpost
+order: 5
 ---
 
 <h2>4. 뷰와 템플릿</h2>

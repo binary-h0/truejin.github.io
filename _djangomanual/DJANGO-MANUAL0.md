@@ -4,6 +4,7 @@ title: Django EZ Manual
 icon: fa-lightbulb
 icon-style: regular
 layout: manualpost
+order: 1
 ---
 
 <div style="text-align: center">
