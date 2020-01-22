@@ -1,5 +1,5 @@
 ---
-layout: manualpost
+layout: post
 title: Django EZ Manual
 author: Intro
 icon: fa-lightbulb

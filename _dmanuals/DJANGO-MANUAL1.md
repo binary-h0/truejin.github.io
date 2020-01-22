@@ -1,5 +1,5 @@
 ---
-layout: manualpost
+layout: post
 title: Django EZ Manual
 author: 설명 및 프로젝트 구조
 icon: fa-lightbulb
