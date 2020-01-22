@@ -1,8 +1,9 @@
 ---
+layout: manualpost
 title: Django EZ Manual
+author: Intro
 icon: fa-lightbulb
 icon-style: regular
-layout: manualpost
 order: 1
 ---
 
