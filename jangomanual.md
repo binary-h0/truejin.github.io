@@ -590,14 +590,18 @@ def main(request, question_id):
 
 <h2>5. 정적 파일</h2>
 
-
+프로젝트를 진행하다 보면 정적 데이터를 사용해야 할 때가 온다.  
+Django 에서는 그 정적 파일을 static 디렉토리에서 관리한다.  
+static 에는 CSS 와 같은 stylesheet, 이미지 정보, JS 등을 넣을 수 있다.  
+이로써 우리는 웹을 좀 더 풍부하게 만들 수 있다.  
+다음과 같이 만들어보자.  
 
 `[앱 이름]/static` 디렉토리를 만들고  
 `[앱 이름]/static/[앱 이름]` 디렉토리를 만들자. (templates 와 구성이 비슷하다!)  
 
 
 `[앱 이름]/static/[앱 이름]/style.css` 를 만들고 실제 적용을 해보자.  
-우리는 `[앱 이름]/templates/[앱 이름]/main.html` 파일의 맨 윗 줄에 `{% load static %}` 한 줄만 추가하면  
+우리는 `[앱 이름]/templates/[앱 이름]/main.html` 파일의 맨 윗 줄에  한 줄만 추가하면  
 static 폴더의 파일들을 모두 쓸 수 있다.  
 다른 파일들은 "알아서" 응용하자.
 
