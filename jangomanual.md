@@ -1,7 +1,6 @@
 ---
 layout: "page"
 title: Django EASY Manual
-subtitle: Django
 icon: fa-pencil-alt
 permalink: /dmanual/
 order: 5
@@ -485,7 +484,7 @@ urlpatterns = [
 `[프로젝트 이름]/settings.py` 에서 ROOT_URLCONF 설정에 의한  
 `[프로젝트 이름]/urls.py` 모듈을 보게된다. urlpatterns 를 찾고  
 `[앱 이름]/` 을 찾고 따라 들어가서 `[앱 이름]/urls.py` 에 있는 urlpatterns 에 따라  
-남은 `5/` 를 처리한다. urlpatterns 에서 `<int:id>/` 와 일치함으로  
+남은 `5/` 를 처리한다. urlpatterns 에서 `< int:id>/` 와 일치함으로  
 `views.py` 의 main 메소드에 인자 값을 넘겨준다.  
 
 어떤 의미인지 아직도 이해를 못한다면 지금이라도 직접 따라해보자 글만 읽는 것보다 직접 해보는 것이  
