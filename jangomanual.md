@@ -1,7 +1,7 @@
 ---
 layout: "page"
 title: Django EASY Manual
-icon: fa-book
+icon: fa-book-alt
 permalink: /dmanual/
 order: 5
 ---
