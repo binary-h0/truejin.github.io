@@ -604,9 +604,7 @@ static 에는 CSS 와 같은 stylesheet, 이미지 정보, JS 등을 넣을 수 
 우리는 `[앱 이름]/templates/[앱 이름]/main.html` 파일의 맨 윗 줄에  
 다음과 같이 한 줄만 추가하면 된다.  
 
-```text
-{% load static %}
-```
+<img src="assets/images/liquid.png" alt="liquid tag">  
 
 static 폴더의 파일들을 모두 쓸 수 있다.  
 다른 파일들은 "알아서" 응용하자.
