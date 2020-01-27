@@ -10,7 +10,18 @@ order: 5
 <img src="../assets/images/django.png" alt="django">
 </div>
 <h1>Easy to use <label style="color: green;">Django</label> Manual</h1>
+
+<br>
+
 <h6>ko_kr .ver</h6>
+
+<br>
+<br>
+
+<h5>이런거 처음 적어보지만 그래도 한번 적어봄..</h5>
+
+<br>
+<br>
 
 <h4>대상:</h4> 
 
