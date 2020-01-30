@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: "page"
 title: 테스팅, 앱 패키징
 author: 테스팅, 앱 패키징
 icon: fa-lightbulb

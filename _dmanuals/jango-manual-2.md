@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: "page"
 title: URL 요청과 응답
 author: URL 요청과 응답
 icon: fa-lightbulb

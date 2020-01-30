@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: "page"
 title: 뷰와 템플릿, 정적 파일
 author: 뷰와 템플릿, 정적 파일
 icon: fa-lightbulb
