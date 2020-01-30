@@ -1,7 +1,6 @@
 ---
 title: Second Post
 author: Chris
-categories: check
 tag: ck
 layout: post
 ---
