@@ -11,7 +11,7 @@ layout: default
 	<!-- Posts List -->
 	{%- for _dmanual in _dmanuals -%}
 		{%- capture _title -%}
-			<a href="{{- _dmanual.url | absolute_url -}}">{{- _dmanual.title -}}</a>
+			<a href="{{- _dmanual.url | absolute_url.md -}}">{{- _dmanual.title -}}</a>
 		{%- endcapture -%}
 		{%- capture _subtitle -%}
 			{% if _dmanual.author -%}{{- _dmanual.author }}{% endif %}
