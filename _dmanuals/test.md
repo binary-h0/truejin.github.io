@@ -1,0 +1,10 @@
+---
+layout: post
+title: Django EZ Manualt
+author: test
+icon: fa-lightbulb
+icon-style: regular
+order: 7
+---
+
+this is test file
