@@ -62,4 +62,4 @@ google_analytics: UA-156485347-1
 # remote_theme: chrisbobbe/jekyll-theme-prologue
 theme: jekyll-theme-prologue
 
-collections: [sections, dmanuals]
+collections: [sections, dmanuals, posts]
