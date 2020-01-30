@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: 테스팅, 앱 패키징
 icon: fa-lightbulb
 icon-style: regular

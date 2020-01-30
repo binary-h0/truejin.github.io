@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: 뷰와 템플릿, 정적 파일
 icon: fa-lightbulb
 icon-style: regular

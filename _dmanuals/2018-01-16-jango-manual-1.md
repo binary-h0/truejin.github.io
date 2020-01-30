@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: 설명 및 프로젝트 구조
 icon: fa-lightbulb
 icon-style: regular

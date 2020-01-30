@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: URL 요청과 응답
 icon: fa-lightbulb
 icon-style: regular

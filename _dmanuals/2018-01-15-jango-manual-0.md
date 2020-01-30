@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Intro
 icon: fa-lightbulb
 icon-style: regular
