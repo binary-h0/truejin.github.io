@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-{%- assign _dmanuals = site.dmanuals | sort: 'date' -%}
+{%- assign _dmanuals = site.posts | sort: 'date' -%}
 {%- include header.html scrolly_nav=_dmanuals -%}
 <!-- Main -->
 <div id="main">
@@ -12,7 +12,6 @@ layout: default
 	{%- for _dmanual in _dmanuals -%}
 		{%- capture _title -%}
 			<a href="{{- _dmanual.url | absolute_url -}}">{{- _dmanual.title -}}</a>
-	<label>{{- _dmanual.url | absolute_url -}}</label>
 		{%- endcapture -%}
 		{%- capture _subtitle -%}
 			{% if _dmanual.author -%}{{- _dmanual.author }}{% endif %}
