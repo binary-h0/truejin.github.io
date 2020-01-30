@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Django EZ Manual
+title: URL 요청과 응답
 author: URL 요청과 응답
 icon: fa-lightbulb
 icon-style: regular

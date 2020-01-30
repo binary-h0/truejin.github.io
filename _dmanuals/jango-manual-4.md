@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Django EZ Manual
+title: 뷰와 템플릿, 정적 파일
 author: 뷰와 템플릿, 정적 파일
 icon: fa-lightbulb
 icon-style: regular
