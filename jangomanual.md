@@ -2,7 +2,7 @@
 layout: "page"
 title: Django EASY Manual
 icon: fa-pencil-alt
-permalink: /dmanual/
+permalink: /djmanual/
 order: 5
 ---
 
