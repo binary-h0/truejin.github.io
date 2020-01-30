@@ -1,7 +1,6 @@
 ---
-layout: "page"
+layout: page
 title: 테스팅, 앱 패키징
-author: 테스팅, 앱 패키징
 icon: fa-lightbulb
 icon-style: regular
 order: 6

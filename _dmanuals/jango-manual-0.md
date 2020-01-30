@@ -1,7 +1,6 @@
 ---
-layout: "page"
+layout: page
 title: Intro
-author: Intro
 icon: fa-lightbulb
 icon-style: regular
 order: 1
