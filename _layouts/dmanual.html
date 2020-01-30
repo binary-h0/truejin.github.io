@@ -14,12 +14,11 @@ layout: default
 			<a href="{{- _dmanual.url | absolute_url -}}">{{- _dmanual.title -}}</a>
 		{%- endcapture -%}
 		{%- capture _subtitle -%}
-			{% if _dmanual.author -%}{{- _dmanual.author }} | {% endif %}
-			{{- _dmanual.date | date_to_long_string -}}
+			{% if _dmanual.author -%}{{- _dmanual.author }}{% endif %}
 		{%- endcapture -%}
 		{%- capture _excerpt -%}<p>{{- _dmanual.excerpt | strip_html | truncatewords: 100 -}}</p>{%- endcapture -%}
 		{%- capture _link -%}<a href="{{- _dmanual.url | absolute_url -}}">read more</a>{%- endcapture -%}
 		{%- assign _content = _excerpt | append: _link -%}
-		{%- include section.html title=_title subtitle=_subtitle content=_content -%}
+		{%- include section.md title=_title subtitle=_subtitle content=_content -%}
 	{%- endfor -%}
 </div>
