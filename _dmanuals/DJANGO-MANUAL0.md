@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Django EZ Manual
+title: Intro
 author: Intro
 icon: fa-lightbulb
 icon-style: regular
